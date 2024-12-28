@@ -1,3 +1,2 @@
 # visa-prediction
-Practice
-commit 1
+Practice - MLOps
